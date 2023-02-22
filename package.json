@@ -10,5 +10,8 @@
     "JavaScript"
   ],
   "author": "Anggi vanesa pallares solis <vanessa.ps815@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
